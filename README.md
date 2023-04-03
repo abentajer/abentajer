@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Bentajer
 - 👀 I’m a computer science professor at ENSA Tétouan
 - 🌱 I’m currently teaching SQL, JEE, 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ ...
 - 📫 Reach me : a.bentajer@gmail.com
 
 <!---
