@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Bentajer
-- 👀 I’m a computer science professor at ENSA Tétouan
-- 🌱 I’m currently teaching SQL, JEE, 
+- 👀 I’m a computer science professor at ENSA Safi
+- 🌱 I’m currently teaching SQL, JEE, Networking, Java/Java OO
 - 💞️ ...
 - 📫 Reach me : a.bentajer@gmail.com
 
